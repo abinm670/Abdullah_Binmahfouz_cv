@@ -93,3 +93,35 @@ function show4()
     butt4.innerHTML = "Show";
   }
 }
+
+
+//row5
+function show5()
+{
+  var img = document.getElementById('uni22');
+  var butt4 = document.getElementById('p5')
+  if (img.style.display == "none")
+  {
+    img.style.display = "block";
+    butt4.innerHTML = "Hide";
+  }else{
+    img.style.display ="none";
+    butt4.innerHTML = "Show";
+  }
+}
+
+//row6
+function show6()
+{
+  var img = document.getElementById('uni0101');
+  var butt4 = document.getElementById('p6')
+  if (img.style.display == "none")
+  {
+    img.style.display = "block";
+    butt4.innerHTML = "Hide";
+  }else{
+    img.style.display ="none";
+    butt4.innerHTML = "Show";
+  }
+}
+
