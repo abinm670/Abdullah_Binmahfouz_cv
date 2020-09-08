@@ -108,7 +108,7 @@ function show5()
     img.style.display ="none";
     butt4.innerHTML = "Show";
   }
-}
+}  
 
 //row6
 function show6()
